@@ -1,0 +1,10 @@
+.a-enter-vr-button {
+  top: 90vh;
+  background-size: 100%;
+  background-color: transparent !important;
+}
+
+.a-enter-vr-button:hover,
+.a-enter-vr-button:active {
+  background-color: transparent !important;
+}
